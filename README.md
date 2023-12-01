@@ -1,4 +1,4 @@
-## NoSQL_Chaalenge
+## NoSQL_Challenge
 
 -----------------------------------------------------------------------------
 Modules Utilized
